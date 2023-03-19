@@ -216,6 +216,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-gta3xl \
 	treble-overlay-samsung-gta7litewifi \
 	treble-overlay-samsung-gts7xllite \
+	treble-overlay-samsung-gts7xlwifi \
 	treble-overlay-samsung-gts8p \
 	treble-overlay-samsung-j6 \
 	treble-overlay-samsung-m31 \
@@ -239,6 +240,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-starqltekdi \
 	treble-overlay-samsung-starqltekdi-systemui \
 	treble-overlay-samsung-t2s \
+	treble-overlay-samsung-y2q \
 	treble-overlay-samsung-z3q \
 	treble-overlay-sec-ims \
 	treble-overlay-sharp-s2 \

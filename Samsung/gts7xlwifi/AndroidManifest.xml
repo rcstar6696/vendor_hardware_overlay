@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="me.phh.treble.overlay.samsung.gts7xlwifi"
+	android:versionCode="1"
+	android:versionName="1.0">
+	<overlay android:targetPackage="android"
+		android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+		android:requiredSystemPropertyValue="+*amsung/gts7xlwifi*"
+		android:priority="755"
+		android:isStatic="true" />
+</manifest>
